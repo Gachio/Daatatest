@@ -1,0 +1,1 @@
+print("The __name__ from script is {}".format(__name__))
